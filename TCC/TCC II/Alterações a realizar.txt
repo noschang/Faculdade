@@ -1,0 +1,8 @@
+- Ajustar formatação para o novo modelo do TCC II
+- Nos exemplos da IDL, alterar os parâmetros de out para in
+- Incluir nas issues do GitHUB:
+
+	- Permitir comparação entre char e char / string e string com qualquer operador relacional
+	- No escolha, forçar o default como última opção
+	- Permitir string no escolha
+
